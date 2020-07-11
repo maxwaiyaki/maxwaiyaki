@@ -1,5 +1,4 @@
 ### Wasuuuup! 😎
-<img src="https://raw.githubusercontent.com/maxwaiyaki/maxwaiyaki/master/carbon%20(2).png" alt="carbon code snip" >
 
 <!--
 **maxwaiyaki/maxwaiyaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
