@@ -16,7 +16,7 @@
                 <summary><a href="#"><img valign="middle" width="30" src="https://avatars1.githubusercontent.com/u/28390298?s=400&u=77309c2b435b9328a863cc4201efc6415329e1fa&v=4"/></a></summary>
                 <details>
                   <summary><a href="#"><img valign="middle" width="25" src="https://avatars1.githubusercontent.com/u/28390298?s=400&u=77309c2b435b9328a863cc4201efc6415329e1fa&v=4"/></a></summary>
-                  🏳️‍🌈               
+                  😊            
                 </details>                
               </details>
             </details>
