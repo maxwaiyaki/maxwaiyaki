@@ -27,6 +27,8 @@
   </details>
 </details>
 
+![Visitor Count](https://profile-counter.glitch.me/{maxwaiyaki}/count.svg)
+
 <!--
 **maxwaiyaki/maxwaiyaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
